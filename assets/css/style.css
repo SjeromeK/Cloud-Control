@@ -1,0 +1,8 @@
+#main {
+    margin-left: 3em;
+}
+#main-card {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
